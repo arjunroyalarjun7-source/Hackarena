@@ -1,0 +1,10 @@
+{
+  "name": "sakhi-ai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sakhi AI - Government Help in Your Voice",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev"
+  }
+}
